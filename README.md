@@ -31,7 +31,7 @@ Mesero
 ### SENA _(2022 - 2023)_
 - Bachiller Tecnico En Integracion De Operaciones Logisticas
 
-### SENA (2025 - Actualidad)_
+### SENA _(2025 - Actualidad)_
 - Aprendiz ADSO
 
 
