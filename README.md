@@ -26,7 +26,7 @@ Mesero
 
 ## 🎓 Educación
 ### Colegio Cooperativo Monseñor Ismael Perdomo _(2018 - 2023)_
-- Grado 11
+- Bachiller Academico
 
 ### SENA _(2022 - 2023)_
 - Bachiller Tecnico En Integracion De Operaciones Logisticas
