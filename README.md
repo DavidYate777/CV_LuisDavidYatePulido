@@ -1,29 +1,44 @@
 # CV_Example
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Luis David Yate Pulido
+**Profesión:** Analista y Desarollador de Software
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- **Email:** [davidyapul02@gmail.com](mailto:correo@ejemplo.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
+### SENA _(2025 - Actualidad)_
+- Python
+- JS
+- C++
+- Lenguaje Esamblador
+- Java
+- Php
+- Bases de Datos
 
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### Bendito Sabor _(2022 - 2025)_
+Mesero
+-   Atencion al Cliente
+-   Procesamiento de Alimentos
+-   Cocina
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### Colegio Cooperativo Monseñor Ismael Perdomo _(2018 - 2023)_
+- Grado 11
+
+### SENA _(2022 - 2023)_
+- Bachiller Tecnico En Integracion De Operaciones Logisticas
+
+### SENA (2025 - Actualidad)_
+- Aprendiz ADSO
+
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Liderzago**
+- **Responsabilidad**
+- **Comunicacion**
 
 ---
 
